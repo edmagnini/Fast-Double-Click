@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "click_time" ALTER COLUMN "click" SET DATA TYPE DOUBLE PRECISION;

@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "click_time" ALTER COLUMN "click_date" SET DEFAULT CURRENT_TIMESTAMP;
